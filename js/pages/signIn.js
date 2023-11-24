@@ -44,4 +44,6 @@ $signInForm.addEventListener('submit', function(e) {
 })
 
 
-const quizAnswerSix = () => "It's a trap"
+const quizAnswerSix = () => "It's a trap";
+
+console.log(quizAnswerSix());
